@@ -1,6 +1,6 @@
 body {
     background-color: rgb(201, 33, 33);
-    text-align: left;
+    text-align: right;
 }
 
 p {
@@ -16,7 +16,7 @@ p {
     width: 140%;
 }
 h1{
-    text-align: center;padding: 50%;
+    text-align: right;padding: 50%;
     font-style: italic;
 }
 h2{
@@ -30,6 +30,6 @@ section {
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    justify-content: center;
+    justify-content: right;
   }
   
