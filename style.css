@@ -13,7 +13,7 @@ body {
 }
 h1{
     text-align: center;
-    padding-top: 5;
+    padding: 5;
 }
 h2{
    text-align: center;
@@ -22,10 +22,10 @@ h3{
     text-align: left; margin: 60%;
 }
 section {
-    background: rgb(117, 43, 43);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    background: rgb(112, 45, 45);
+    margin-top: 5;
     display: flex;
+    font-size: 20;
     justify-content: center;
   }
   
