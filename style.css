@@ -1,26 +1,22 @@
 body {
-    background-color: rgb(201, 33, 33);
-    text-align: left;
-}
-
-p {
-    color: azure;
+    background-color:beige;
+    margin: opx;
 }
 
 .girafa {
      font-style: italic;
-    color: aquamarine;
+    color: rgb(177, 30, 10);
 }
 
 .ornitorrinco {
-    width: 140%;
+    width: 50%;
 }
 h1{
-    text-align: left;
-    font-style: italic;
+    text-align: center;
+    padding-top: 5;
 }
 h2{
-   text-align: left;
+   text-align: center;
 }
 h3{
     text-align: left; margin: 60%;
@@ -30,6 +26,6 @@ section {
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    justify-content: left;
+    justify-content: center;
   }
   
